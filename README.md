@@ -3,10 +3,10 @@ This repository contains the projects and exercises I’m working on during my i
 
 # Overview
 During my internship, I am focusing on developing my skills in:
- # JavaScript fundamentals
- # Software engineering principles and best practices
- # Web development techniques
- # Problem-solving and debugging
+ 1. JavaScript fundamentals
+ 2. Software engineering principles and best practices
+ 3. Web development techniques
+ 4. Problem-solving and debugging
 
 
  # Key Concepts Covered

@@ -18,3 +18,6 @@ During my internship, I am focusing on developing my skills in:
 6. Operators
 7. Promises
 8. Asynch/wait
+
+# Technologies
+1. Javascript
